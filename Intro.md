@@ -3,7 +3,7 @@ downloads:
     - file: Exports/Boek.pdf
 ---
 
-# Introductie tot het boek
+# Kijken of t lukt
 
 Kijk op [MystMD](https://mystmd.org/guide/) voor alle informatie over MYSTMD.
 
